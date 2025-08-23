@@ -1,0 +1,88 @@
+# 大型数据文件
+yelp_business.csv
+reviews_of_restaurants.txt
+users.txt
+
+# 大型文档文件
+*.zip
+*.pdf
+*.docx
+*.pptx
+*.html
+
+# 模型文件
+*.pkl
+*.joblib
+*.h5
+*.pth
+*.pt
+*.ckpt
+
+# 临时文件
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 环境文件
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志文件
+*.log
+logs/
+
+# 结果文件
+results/
+output/
+*.csv
+*.json
+*.txt
+
+# 数据目录
+data/raw/
+data/processed/
+data/embeddings/
+
+# 缓存
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
